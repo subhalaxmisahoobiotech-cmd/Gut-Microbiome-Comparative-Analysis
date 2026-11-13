@@ -121,9 +121,9 @@ Gut-Microbiome-Comparative-Analysis/
 └── README.md
 ```
 
-## Project Type
+## Project Type:
 
-Independent Bioinformatics Mini-Project
+Independent Bioinformatics Project
 
 **Field:** NGS, Metagenomics, Gut Microbiome, Comparative Analysis, Statistical Bioinformatics
 
